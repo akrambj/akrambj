@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akram Bedjaoui</h1>
 <h3 align="center">Front-End Dev | Passionate Software Engineer | React & BIM Enthusiast | Crafting Interactive Web Experiences</h3>
 
-- 🔭 I’m currently working on **Intellisolution**
+- 🔭 I’m currently working for **Intellisolution**
 
 - 🌱 I’m currently learning **Algorithms, UI**
 
