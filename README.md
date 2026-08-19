@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Akram Bedjaoui 👋</h1>
-<h3 align="center">Frontend Engineer · React / TypeScript · Building B2B SaaS at scale</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:00ff87&height=180&section=header&text=Akram%20Bedjaoui&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="Akram Bedjaoui — Frontend Engineer"/>
+</p>
 
 <p align="center">
-  📍 Algiers, Algeria &nbsp;|&nbsp; 🌍 Open to EU relocation (Blue Card / NL Highly-Skilled Migrant eligible)
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Frontend+Engineer+-+React+%2F+TypeScript;Building+B2B+SaaS+at+scale;Open+to+relocation+-+anywhere" alt="Typing SVG"/>
+</p>
+
+<p align="center">
+  📍 Algiers, Algeria &nbsp;|&nbsp; 🌍 Open to relocation — anywhere · Visa sponsorship ready
 </p>
 
 <p align="center">
@@ -27,36 +32,16 @@
 ### 🛠️ Tech Stack
 
 **Languages**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=js,ts,html,css,py&theme=dark" alt="languages"/></p>
 
 **Frameworks & Libraries**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg" alt="threejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,threejs,fastapi&theme=dark" alt="frameworks"/></p>
 
 **Styling & UI**
-<p>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=tailwind,figma&theme=dark" alt="styling"/></p>
 
 **Tooling**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
-</p>
+<p><img src="https://skillicons.dev/icons?i=git,github,vite,webpack,eslint&theme=dark" alt="tooling"/></p>
 
 **State, Data & Forms**
 <p>
@@ -91,4 +76,23 @@
 
 ---
 
+### 📊 GitHub Activity
+
+<!--
+  Contribution snake — uncomment once the GitHub Action below has run successfully
+  (generates output/github-contribution-grid-snake.svg on an `output` branch):
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/akrambj/akrambj/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+  </p>
+-->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=akrambj&color=00ff87&style=flat&label=Profile+Views" alt="Profile Views"/>
+</p>
+
+---
+
 <p align="center"><i>Building type-safe, performant, accessible software — one component at a time.</i></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff87,100:0a0a0a&height=100&section=footer" width="100%"/>
