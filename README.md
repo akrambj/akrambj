@@ -7,20 +7,20 @@
 
 <p align="center">
   <a href="mailto:bedjaouiakram.93@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/akram-bedjaoui/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://akrambedjaoui.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/akrambj"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🏗️ **Sole frontend engineer** on [ProdaConnect](#), a B2B SaaS platform for the AEC (Architecture, Engineering & Construction) industry — 698 source files, Domain-Driven Design, **0 TS errors, 0 circular deps**
+- 🏗️ **Sole frontend engineer** on [ProdaConnect](https://proda-connect.com/), a B2B SaaS platform for the AEC (Architecture, Engineering & Construction) industry — 698 source files, Domain-Driven Design, **0 TS errors, 0 circular deps**
 - 🧩 Built a **48-component design system** and a multi-format document/3D viewer (PDF, IFC/WebGL, image/video)
 - 🎓 Teach React & full-stack development at **Code Labs Academy** (cohort-based, international students)
 - 🏢 Run **One Click Agency** — freelance & agency software services
-- 🗣️ Trilingual: Arabic (native) · English (C1) · French (B1)
+- 🗣️ Trilingual — Arabic (Native), English, French
 
 ---
 
@@ -66,10 +66,10 @@
 
 | Role | Company | Period |
 |---|---|---|
-| Frontend Engineer | ProdaConnect | Apr 2024 – Present |
+| Frontend Engineer | PRODA Connect | Apr 2024 – Present |
+| Web Development Instructor · Part-time | Code Labs Academy | Apr 2025 – Present |
 | Frontend Developer | Ayor.ai | Jan 2025 – Jan 2026 |
 | Frontend Developer | H24CARE | Sep 2023 – Apr 2024 |
-| Web Development Instructor | Code Labs Academy | Apr 2025 – Present |
 
 ---
 
