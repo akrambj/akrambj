@@ -54,10 +54,20 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="github" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="eslint" width="40" height="40"/>
 </p>
 
-**State, Data & Validation:** React Query v5 · Zustand · Zod · REST · GraphQL · WebSockets
+**State, Data & Forms**
+<p>
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" alt="tanstack query" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" alt="react hook form" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" alt="zod" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/axios/5A29E4" alt="axios" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/graphql/E10098" alt="graphql" width="40" height="40"/>
+</p>
+
+**State, Data & Validation:** TanStack Query · React Hook Form · Zustand · Zod · Axios · REST · GraphQL · WebSockets
 **Accessibility & Performance:** WCAG 2.1 / ARIA · Core Web Vitals · Code Splitting · Lazy Loading
 
 ---
